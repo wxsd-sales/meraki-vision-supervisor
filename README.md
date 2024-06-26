@@ -5,7 +5,7 @@
 This is a proof-of-concept extension for web browsers (like Chrome, Edge, Firefox etc.) that adds call buttons to the Meraki Vision Dashboard. When clicked, the button cross-launches a call to the SIP address associated with the selected camera. This extension is particularly useful for scenarios such as patient-room monitoring, prison systems, and more.
 
 <p align="center">
-   <a href="https://app.vidcast.io/share/c4aadb87-43c3-441f-82fb-2bdb31631223" target="_blank">
+   <a href="https://app.vidcast.io/share/296228d8-18d0-4a76-b350-3fec18274613" target="_blank">
        <img 
           src="https://github.com/wxsd-sales/meraki-vision-supervisor/assets/6129517/3be5f907-6e04-447b-aba3-679d1979de22" 
           alt="meraki-vision-supervisor-demo"
@@ -67,7 +67,7 @@ do note that some changes need re-installation of the extension to take effect.
 
 ## Demo
 
-A video where we demo this PoC is available on Vidcast — [https://app.vidcast.io/share/c4aadb87-43c3-441f-82fb-2bdb31631223](https://app.vidcast.io/share/c4aadb87-43c3-441f-82fb-2bdb31631223).
+A video where we demo this PoC is available on Vidcast — [https://app.vidcast.io/share/296228d8-18d0-4a76-b350-3fec18274613](https://app.vidcast.io/share/296228d8-18d0-4a76-b350-3fec18274613).
 
 ## Disclaimer
 
