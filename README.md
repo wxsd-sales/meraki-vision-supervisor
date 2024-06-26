@@ -7,8 +7,8 @@ This is a proof-of-concept extension for web browsers (like Chrome, Edge, Firefo
 <p align="center">
    <a href="https://app.vidcast.io/share/c4aadb87-43c3-441f-82fb-2bdb31631223" target="_blank">
        <img 
-          src="https://github.com/wxsd-sales/meraki-vision-supervisor/assets/6129517/f76d918c-2a3f-478f-b2f6-3f13b1285fb0" 
-          alt="webex-call-button-demo"
+          src="https://github.com/wxsd-sales/meraki-vision-supervisor/assets/6129517/3be5f907-6e04-447b-aba3-679d1979de22" 
+          alt="meraki-vision-supervisor-demo"
           />
     </a>
 </p>
