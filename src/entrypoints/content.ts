@@ -4,7 +4,7 @@ import { HTMLButtonElement } from 'linkedom';
 export default defineContentScript({
   matches: ['https://vision.meraki.com/n/*/video-walls/*'],
 
-  async main(ctx) {
+  async main() {
     function getDeviceSip(name: string) {
       const id = import.meta.env.PUBLIC_MERAKI_ORGANIZATION_ID;
       const query = new URLSearchParams({ name, 'productTypes[]': 'camera' });
