@@ -1,8 +1,13 @@
 {
   "name": "meraki-vision-supervisor",
-  "description": "manifest.json description",
+  "description": "Cross browser extension to add call buttons on Meraki Vision Dashboard, enabling click-to-call.",
   "private": true,
+  "author": "WXSD Sales <wxsd@external.cisco.com>",
+  "contributors": [
+    "Ashesh Singh <ask@mrsinh.com> (https://mrsinh.com)"
+  ],
   "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "dev": "wxt",
     "dev:firefox": "wxt -b firefox",
@@ -37,6 +42,6 @@
     "svelte-eslint-parser": "^0.33.1",
     "tslib": "^2.6.2",
     "typescript": "^5.4.2",
-    "wxt": "^0.17.0"
+    "wxt": "^0.18.10"
   }
 }
